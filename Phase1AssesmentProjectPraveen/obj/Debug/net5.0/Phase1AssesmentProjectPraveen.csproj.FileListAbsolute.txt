@@ -1,0 +1,16 @@
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\bin\Debug\net5.0\Phase1AssesmentProjectPraveen.exe
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\bin\Debug\net5.0\Phase1AssesmentProjectPraveen.deps.json
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\bin\Debug\net5.0\Phase1AssesmentProjectPraveen.runtimeconfig.json
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\bin\Debug\net5.0\Phase1AssesmentProjectPraveen.runtimeconfig.dev.json
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\bin\Debug\net5.0\Phase1AssesmentProjectPraveen.dll
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\bin\Debug\net5.0\ref\Phase1AssesmentProjectPraveen.dll
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\bin\Debug\net5.0\Phase1AssesmentProjectPraveen.pdb
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.AssemblyInfoInputs.cache
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.AssemblyInfo.cs
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.csproj.CoreCompileInputs.cache
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.dll
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\ref\Phase1AssesmentProjectPraveen.dll
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.pdb
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.genruntimeconfig.cache
+C:\Users\balasp1\source\repos\Phase1AssesmentProjectPraveen\Phase1AssesmentProjectPraveen\obj\Debug\net5.0\Phase1AssesmentProjectPraveen.csproj.AssemblyReference.cache
